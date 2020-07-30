@@ -38,7 +38,7 @@ Will need the <a href="https://nodejs.org/en/">node.js</a>.
 <h2>Running</h2>
 With all dependencies installed and the environment properly configured, you can now run the app:
 
-`$ expo start` 
+`$ npm dev` 
 
 <h2>Built With</h2>
 
@@ -47,6 +47,7 @@ With all dependencies installed and the environment properly configured, you can
   <li><a href="https://pt-br.reactjs.org/">ReactJS</a> - A JavaScript library for creating user interfaces</li>
   <li><a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React-router-dom</a> - Router</li>
   <li><a href="https://github.com/Vibrant-Colors/node-vibrant">node-vibrant</a> - Extract prominent colors from an image.</li>
+  <li><a href="https://serverjs.io">Server</a> - Powerful server for Node.js that just works so you can focus on your awesome project</li>
 </ul>
 
 <h2>License</h2>
