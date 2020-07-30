@@ -1,6 +1,6 @@
 # movies_frontend
 
-![Screen_shoots_instagram_clone](https://user-images.githubusercontent.com/66707613/86680692-349f0f00-bfd5-11ea-93e2-5c4c9f273a4d.jpg)
+![movies_frontend](https://user-images.githubusercontent.com/66707613/88963810-cde0de80-d27e-11ea-997b-8f4961bec419.gif)
 
 <h2>About this Project</h2>
 Site to search for movies and show your information.
