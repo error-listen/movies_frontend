@@ -2,6 +2,8 @@
 
 ![movies_frontend](https://user-images.githubusercontent.com/66707613/88963810-cde0de80-d27e-11ea-997b-8f4961bec419.gif)
 
+web: https://project-movies-frontend.herokuapp.com
+
 <h2>About this Project</h2>
 Site to search for movies and show your information.
 
