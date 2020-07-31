@@ -10,6 +10,7 @@ This project is part of my personal portfolio.
 
 <h2>Functionalities</h2>
 <ul>
+  <li>PWA</li>
   <li>Search movies</li>
   <li>Show informations about the movies</li>
 </ul>
