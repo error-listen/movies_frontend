@@ -41,7 +41,7 @@ Will need the <a href="https://nodejs.org/en/">node.js</a>.
 <h2>Running</h2>
 With all dependencies installed and the environment properly configured, you can now run the app:
 
-`$ npm dev` 
+`$ npm run dev` 
 
 <h2>Built With</h2>
 
